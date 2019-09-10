@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gale/SurroundView_Cmake/src/shader/renderutils.cpp
+renderutils.h
+/home/gale/SurroundView_Cmake/src/shader/renderutils.h
+
+/home/gale/SurroundView_Cmake/src/shader/renderutils.h
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+GLES2/gl2.h
+-
+EGL/egl.h
+-
+

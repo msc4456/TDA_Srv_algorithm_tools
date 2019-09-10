@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gale/SurroundView_Cmake/src/common/luma_calc.cpp
+luma_calc.h
+/home/gale/SurroundView_Cmake/src/common/luma_calc.h
+
+/home/gale/SurroundView_Cmake/src/common/luma_calc.h
+

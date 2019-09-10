@@ -1,0 +1,2 @@
+/usr/bin/ar qc libs1_car_draw.a  CMakeFiles/s1_car_draw.dir/car.cpp.o
+/usr/bin/ranlib libs1_car_draw.a

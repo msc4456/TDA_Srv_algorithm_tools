@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshader.a  CMakeFiles/shader.dir/renderutils.cpp.o CMakeFiles/shader.dir/glad.c.o
+/usr/bin/ranlib libshader.a

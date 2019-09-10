@@ -1,0 +1,2 @@
+/usr/bin/ar qc libs2_srv_draw.a  CMakeFiles/s2_srv_draw.dir/srv.cpp.o CMakeFiles/s2_srv_draw.dir/srv_views.cpp.o
+/usr/bin/ranlib libs2_srv_draw.a
